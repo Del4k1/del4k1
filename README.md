@@ -1,4 +1,4 @@
-Hi 👋 My name is Daler
+![image](https://github.com/Del4k1/del4k1/assets/100797336/4168a1cd-5b14-4cf7-bb3b-1a84789040bd)Hi 👋 My name is Daler
 ======================
 
 Hello! I'm a developer who likes to make clones and solves coding problems for fun.
@@ -10,7 +10,8 @@ Hello! I'm a developer who likes to make clones and solves coding problems for f
 
 
 <p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
+ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON https://github.com/Del4k1/del4k1/assets/100797336/1f9b3923-994b-4949-8b1e-54bf4971b6cc
+
 </p>
 
 
