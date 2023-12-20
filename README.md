@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=del4k1" alt="del4k1" /></a> </p>
 
-- 🌱 I’m currently learning **Angular && NestJS && React ** Express**
+- 🌱 I’m currently learning **Angular && NestJS && React Express**
 
 - 📫 How to reach me **isoev9733@gmail.com**
 
