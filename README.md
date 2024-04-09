@@ -85,4 +85,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/del4k1/del4k1/del4k1/main/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/del4k1/del4k1/main/dist/snake.svg" alt="Snake animation" />
