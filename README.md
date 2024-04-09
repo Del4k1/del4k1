@@ -88,6 +88,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/del4k1/del4k1/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/del4k1/snake.svg" alt="Snake animation" />
 
 ###
