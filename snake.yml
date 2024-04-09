@@ -1,18 +1,17 @@
 - uses: Platane/snk@v3
   with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
+    # GitHub имя пользователя для чтения графа вклада (обязательно)
+    github_user_name: del4k1
 
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
+    # Список файлов для генерации.
+    # По одному файлу на строку. Каждый вывод можно настроить с помощью параметров в виде строки запроса.
     #
-    #  supported options:
-    #  - palette:     A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake: Color of the snake
-    #  - color_dots:  Coma separated list of dots color.
-    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                 Exactly 5 colors are expected.
+    #  Поддерживаемые параметры:
+    #  - palette:     Набор цветов, один из [github, github-dark, github-light]
+    #  - color_snake: Цвет змейки
+    #  - color_dots:  Список цветов точек через запятую.
+    #                 Первый цвет - 0 вклад, затем цвета идут от низкого вклада к высшему.
+    #                 Ожидается ровно 5 цветов.
     outputs: |
       dist/github-snake.svg
       dist/github-snake-dark.svg?palette=github-dark
